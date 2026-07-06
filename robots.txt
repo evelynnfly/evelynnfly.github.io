@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /
-
-# This asks search engines not to crawl this portfolio.
-# It is not true access control. Anyone with the link can still view the site.
